@@ -1,0 +1,5 @@
+{
+  "name": "Policy Impact Analyzer",
+  "description": "An advanced tool for urban planners and policy analysts to map document impacts onto predefined system nodes and state variables using Gemini 3.0.",
+  "requestFramePermissions": []
+}
